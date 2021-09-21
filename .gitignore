@@ -1,0 +1,7 @@
+**/.vscode
+**/.vs
+__pycache__/
+cogs/__pycache__/
+venv/
+config.json
+_test.py
